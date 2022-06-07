@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Fight Club",
+    "imageUrl": "http://localhost:9000/images/fight-club.jpg",
+    "short_description": "An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more."
+  },
+  {
+    "id": 2,
+    "title": "Forrest Gump",
+    "imageUrl": "http://localhost:9000/images/forrest-gump.jpg",
+    "short_description": "The presidencies of Kennedy and Johnson, the Vietnam War, the Watergate scandal and other historical events..."
+  },
+  {
+    "id": 3,
+    "title": "The Shawshank Redemption",
+    "imageUrl": "http://localhost:9000/images/the-shawshank-redemption.jpg",
+    "short_description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency."
+  }
+]

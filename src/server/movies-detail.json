@@ -1,0 +1,23 @@
+{
+  "1": {
+    "id": 1,
+    "title": "Fight Club",
+    "image": "http://localhost:9000/images/fight-club.jpg",
+    "description": "A nameless first person narrator (Edward Norton) attends support groups in attempt to subdue his emotional state and relieve his insomniac state. When he meets Marla (Helena Bonham Carter), another fake attendee of support groups, his life seems to become a little more bearable. However when he associates himself with Tyler (Brad Pitt) he is dragged into an underground fight club and soap making scheme. Together the two men spiral out of control and engage in competitive rivalry for love and power.",
+    "release_year": 1999
+  },
+  "2": {
+    "id": 2,
+    "title": "Forrest Gump",
+    "image": "http://localhost:9000/images/forrest-gump.jpg",
+    "description": "Forrest Gump is a simple man with a low I.Q. but good intentions. He is running through childhood with his best and only friend Jenny. His 'mama' teaches him the ways of life and leaves him to choose his destiny. Forrest joins the army for service in Vietnam, finding new friends called Dan and Bubba, he wins medals, creates a famous shrimp fishing fleet, inspires people to jog, starts a ping-pong craze, creates the smiley, writes bumper stickers and songs, donates to people and meets the president several times. However, this is all irrelevant to Forrest who can only think of his childhood sweetheart Jenny Curran, who has messed up her life. Although in the end all he wants to prove is that anyone can love anyone.",
+    "release_year": 1994
+  },
+  "3": {
+    "id": 3,
+    "title": "The Shawshank Redemption",
+    "image": "http://localhost:9000/images/the-shawshank-redemption.jpg",
+    "description": "Chronicles the experiences of a formerly successful banker as a prisoner in the gloomy jailhouse of Shawshank after being found guilty of a crime he did not commit. The film portrays the man's unique way of dealing with his new, torturous life; along the way he befriends a number of fellow prisoners, most notably a wise long-term inmate named Red.",
+    "release_year": 1994
+  }
+}
