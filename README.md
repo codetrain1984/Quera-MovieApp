@@ -2,4 +2,4 @@
 
 Take a look at this LINK:
 
-https://movie-app-seven-lemon.vercel.app/
+https://quera-movie-app.vercel.app/
